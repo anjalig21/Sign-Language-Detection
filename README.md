@@ -3,9 +3,11 @@ Programmed an application that allows the client to make certain sign-language g
 
 ## Technologies Used
 - `Python 3.7`
-- `TensorFlow`
-- `OpenCV`
-- `Keras`
+- `TensorFlow 2.3.0`
+- `Numpy 1.18.5`
+- `OpenCV 4.4.0.42`
+- `Keras 2.4.3`
+- `Keras-Preprocessing 1.1.2`
 
 ## Demo 
 ![](sign-language.gif)
